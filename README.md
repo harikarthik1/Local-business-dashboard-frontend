@@ -1,6 +1,4 @@
-### Local business Dashboard 
-
-# 🌐 Headline Generator Frontend
+# Local business Dashboard Frontend
 
 This is the frontend React app for the Headline Generator, allowing users to enter their business details and receive a personalized headline. Styled using Tailwind CSS.
 
